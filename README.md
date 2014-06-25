@@ -32,8 +32,8 @@ Or install it yourself as:
 
 ## TODO
 
-- [] Update to only run the affected tests.  Currently, all tests are run for any update.
-- [] Look for alternatives to using only "mix test"
+ - [ ] Update to only run the affected tests.  Currently, all tests are run for any update.
+ - [ ] Look for alternatives to using only "mix test"
 
 
 ## Contributing
