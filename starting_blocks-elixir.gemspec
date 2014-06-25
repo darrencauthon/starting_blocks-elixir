@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["darren@cauthon.com"]
   spec.description   = %q{Run your elixir tests automatically.}
   spec.summary       = %q{elixir support for starting_blocks}
-  spec.homepage      = ""
+  spec.homepage      = "http://www.github.com/darrencauthon/starting_blocks-elixir"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
